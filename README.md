@@ -1,2 +1,2 @@
-# cat-photo-app
- FCC HTML practice
+# [Learn HTML by Building a Cat Photo App](https://amandapennell.github.io/cat-photo-app/)
+Part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). 
